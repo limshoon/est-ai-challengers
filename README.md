@@ -1,6 +1,12 @@
-# EST AI Challengers Learning Log
+# EST AI Challengers 2026 / Learning Log
 
-EST AI Challengers 교육 과정에서 학습한 내용을 직접 정리한 개인 TIL(Today I Learned) 기록입니다. Python 기초부터 데이터 분석, 머신러닝·딥러닝, LLM과 AI 서비스 기획까지 학습 흐름과 회고를 기록했습니다.
+This branch contains my personal TIL (Today I Learned) notes from the EST AI Challengers training program. It records the learning sequence and reflections from Python fundamentals through data analysis, machine learning, deep learning, LLMs, RAG, AI agents, responsible AI, and service planning.
+
+- [Repository hub](https://github.com/limshoon/est-ai-challengers)
+- Scope: training notes only
+- Available archive: 19 entries covering Days 1, 2, and 4-20
+
+Day 3 was not present in the available archive, so it has not been reconstructed.
 
 ## 학습 범위
 
@@ -45,6 +51,14 @@ EST AI Challengers 교육 과정에서 학습한 내용을 직접 정리한 개�
 3. 어려웠던 점과 개선 계획
 4. 다음 학습 및 실습 계획
 
-## 안내
+## 해커톤 분리 원칙
 
-이 저장소는 교육자료를 재배포하기 위한 저장소가 아니라, 교육 과정에서 학습한 내용을 개인의 언어로 정리한 학습 기록입니다. 강의 슬라이드, 교안 원문과 제공 자료는 포함하지 않았습니다.
+Day 20은 해커톤의 일반적인 진행 구조, 문제 정의, 역할 분담과 AI 서비스 기획을 학습한 기록입니다. `Voice-Based Senior Wellbeing Monitoring System`의 아이디어, 구현, 데이터, 코드 또는 발표자료는 포함하지 않습니다. 해당 해커톤 프로젝트는 기존 비공개 저장소에 별도로 유지됩니다.
+
+## 자료 정책
+
+이 브랜치는 교육자료를 재배포하기 위한 저장소가 아니라, 교육 과정에서 학습한 내용을 개인의 언어로 정리한 기록입니다. 강의 슬라이드, 교안 원문, 제공 데이터와 백업 자료는 포함하지 않았습니다.
+
+## Rights and reuse
+
+The original learning notes are provided for portfolio viewing under the repository rights notice. Referenced course and technology names belong to their respective owners.
